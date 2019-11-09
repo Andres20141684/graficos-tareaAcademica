@@ -296,7 +296,7 @@ int main(int argc, char **argv) {
 	// Initialize OpenGL.
 	const bool lSupportVBO = InitializeOpenGL();
 
-	FbxString lFilePath("zombii.FBX");
+	FbxString lFilePath("soldier.FBX");
 
 	gSceneContext = new FBXLoader(lFilePath, 800, 600);
 

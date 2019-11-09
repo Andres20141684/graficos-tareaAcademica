@@ -58,7 +58,7 @@
       </SDLCheck>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
       <BrowseInformation>true</BrowseInformation>
-      <AdditionalIncludeDirectories>..\mypro\lib\include;..\glfw\include;..\glew-2.1.0\include;..\freeglut\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Universidad\Graficos\graficos-tareaAcademica\mypro\lib\include;..\mypro\lib\include;..\glfw\include;..\glew-2.1.0\include;..\freeglut\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
