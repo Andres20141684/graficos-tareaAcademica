@@ -1,4 +1,4 @@
-## graficos-tareaAcademica
+### graficos-tareaAcademica
 Tarea academica de Graficos en Computacion
 
 # Pasos para correr el proyecto
